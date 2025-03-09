@@ -1,6 +1,8 @@
 
 Week 2 Milestone
+
 So Here’s explanation in terms of:
+
 1. Gathering Data – I have a dataset from Kaggle that includes pictures of both healthy and diseased plants.  
 
 2. Training the Model – I use TensorFlow to help the AI learn patterns from these images so it can recognize plant diseases.  
